@@ -1,6 +1,5 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  basePath: '/Tristan-portfolio',
   /**
    * Enable static exports for the App Router.
    *
